@@ -1,5 +1,3 @@
-## Olá! Sou o Lucas Silva 👋
-
 <div align="center">
   <a href="https://github.com/devflucassilva-byte">
     <img height="165em" src="https://streak-stats.demolab.com?user=devflucassilva-byte&theme=dark&hide_border=true" />
@@ -12,6 +10,8 @@
     <img src="https://skillicons.dev/icons?i=java,cpp,mysql,html,css,js,ts,python&theme=dark" />
   </a>
 </div>
+
+## Olá! Sou o Lucas Silva 👋
 
 Sou um profissional apaixonado por qualidade, tecnologia e construção de soluções eficientes. Atuo como Líder de Qualidade, trazendo uma visão analítica, orientada a processos, métricas e melhoria contínua uma vivência técnica que desperta em mim o olhar crítico necessário para estruturar softwares mais seguros e confiáveis.
 
