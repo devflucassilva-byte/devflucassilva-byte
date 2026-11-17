@@ -1,4 +1,4 @@
-name: generate space shooter animation
+name: generate pacman animation
 
 on:
   schedule:
@@ -19,11 +19,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Space Shooter SVG
-        uses: marcizhu/readme-space-shooter@master
+      - name: Generate Pac-Man contribution animation
+        uses: abozanona/pacman-contribution-graph@main
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          COLOR_DOTS: "#333333"
 
       - name: Push generated SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
