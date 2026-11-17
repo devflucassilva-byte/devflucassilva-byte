@@ -11,14 +11,6 @@
   </a>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://devflucassilva-byte.github.io/devflucassilva-byte/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://devflucassilva-byte.github.io/devflucassilva-byte/pacman-contribution-graph.svg" />
-    <img alt="pacman" src="https://devflucassilva-byte.github.io/devflucassilva-byte/pacman-contribution-graph.svg" />
-  </picture>
-</div>
-
 ## Olá! Sou o Lucas Silva 👋
 
 Sou um profissional apaixonado por qualidade, tecnologia e construção de soluções eficientes. Atuo como Líder de Qualidade, trazendo uma visão analítica, orientada a processos, métricas e melhoria contínua uma vivência técnica que desperta em mim o olhar crítico necessário para estruturar softwares mais seguros e confiáveis.
@@ -72,3 +64,11 @@ Além da programação, sou um entusiasta do empreendedorismo e da criação de 
 Estou aberto a conexões, trocas de conhecimento e colaborações em projetos desafiadores de tecnologia. Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução na área de desenvolvimento cada linha de código aqui representa um passo na minha jornada de constante aperfeiçoamento técnico.
 
 Vamos construir algo incrível juntos? Entre em contato comigo pelas minhas redes!
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://devflucassilva-byte.github.io/devflucassilva-byte/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://devflucassilva-byte.github.io/devflucassilva-byte/pacman-contribution-graph.svg" />
+    <img alt="pacman" src="https://devflucassilva-byte.github.io/devflucassilva-byte/pacman-contribution-graph.svg" />
+  </picture>
+</div>
