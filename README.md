@@ -13,9 +13,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devflucassilva-byte/devflucassilva-byte/output/pacman-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devflucassilva-byte/devflucassilva-byte/output/pacman.svg" />
-    <img alt="pacman" src="https://raw.githubusercontent.com/devflucassilva-byte/devflucassilva-byte/output/pacman.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://devflucassilva-byte.github.io/devflucassilva-byte/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://devflucassilva-byte.github.io/devflucassilva-byte/pacman-contribution-graph.svg" />
+    <img alt="pacman" src="https://devflucassilva-byte.github.io/devflucassilva-byte/pacman-contribution-graph.svg" />
   </picture>
 </div>
 
