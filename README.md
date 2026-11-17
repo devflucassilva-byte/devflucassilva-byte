@@ -11,6 +11,14 @@
   </a>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devflucassilva-byte/devflucassilva-byte/output/pacman-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devflucassilva-byte/devflucassilva-byte/output/pacman.svg" />
+    <img alt="pacman" src="https://raw.githubusercontent.com/devflucassilva-byte/devflucassilva-byte/output/pacman.svg" />
+  </picture>
+</div>
+
 ## Olá! Sou o Lucas Silva 👋
 
 Sou um profissional apaixonado por qualidade, tecnologia e construção de soluções eficientes. Atuo como Líder de Qualidade, trazendo uma visão analítica, orientada a processos, métricas e melhoria contínua uma vivência técnica que desperta em mim o olhar crítico necessário para estruturar softwares mais seguros e confiáveis.
