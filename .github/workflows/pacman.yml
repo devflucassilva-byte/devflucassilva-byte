@@ -22,9 +22,6 @@ jobs:
       - name: Generate Pac-Man contribution animation
         uses: abozanona/pacman-contribution-graph@main
         with:
-      - name: Generate Pac-Man contribution animation
-        uses: abozanona/pacman-contribution-graph@main
-        with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_user_name: ${{ github.repository_owner }}
 
