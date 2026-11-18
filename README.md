@@ -11,11 +11,11 @@
   </a>
 </div>
 
-## Olá! Sou o Lucas Silva 👋
+## Olá! Sou o Lucas Silva
 
 Sou um profissional apaixonado por qualidade, tecnologia e construção de soluções eficientes. Atuo como Líder de Qualidade, trazendo uma visão analítica, orientada a processos, métricas e melhoria contínua uma vivência técnica que desperta em mim o olhar crítico necessário para estruturar softwares mais seguros e confiáveis.
 
-## 🚀 Foco Técnico & Desenvolvimento
+## Foco Técnico & Desenvolvimento
 
 Atualmente, foco meus estudos e projetos práticos no desenvolvimento Back-end e aplicações Desktop.
 
@@ -27,9 +27,9 @@ Valorizo a segurança da informação, o tratamento adequado de dados e a clarez
 
 No dia a dia, combino a mentalidade de garantia de qualidade com a execução prática do desenvolvimento de código, buscando sempre boas práticas de engenharia de software desde o controle de versão até a entrega final.
 
-## 💡 Visão & Propósito
+## Visão & Propósito
 
-"Acredito que um bom código é aquele que une lógica sólida, performance e legibilidade para outros desenvolvedores."
+Acredito que um bom código é aquele que une lógica sólida, performance e legibilidade para outros desenvolvedores.
 
 Acredito no aprendizado contínuo e na prática constante para dominar arquiteturas de software limpas e bem organizadas.
 
@@ -59,7 +59,7 @@ Além da programação, sou um entusiasta do empreendedorismo e da criação de 
 &nbsp;&nbsp; **🚀 Versionamento e Ambiente**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fluxo de trabalho limpo, commits semânticos e produtividade no desenvolvimento Java.
 
-## 🤝 Vamos nos conectar?
+## Vamos nos conectar?
 
 Estou aberto a conexões, trocas de conhecimento e colaborações em projetos desafiadores de tecnologia. Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução na área de desenvolvimento cada linha de código aqui representa um passo na minha jornada de constante aperfeiçoamento técnico.
 
